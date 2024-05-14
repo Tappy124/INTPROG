@@ -7,7 +7,9 @@ const profile = {
   education: {
     degree: 'Bachelor of Science in Information Technology (BSIT)',
     year: '2nd Year Student (2023-2024)',
-    university: 'University of Southern Philippines Foundation (USPF)'
+    university: 'University of Southern Philippines Foundation (USPF)',
+    highschool: 'University of southern philippines Foundation (USPF)',
+    year: '(2019-2020)'
   },
   skills: [
     'Team Collaboration',
