@@ -9,7 +9,9 @@ const profile = {
     year: '2nd Year Student (2023-2024)',
     university: 'University of Southern Philippines Foundation (USPF)',
     highschool: 'University of southern philippines Foundation (USPF)',
-    year: '(2019-2020)'
+    year: '(2019-2020)',
+    elementary: 'Busay Elementary School'
+    year: '(2014-2015)'
   },
   skills: [
     'Team Collaboration',
